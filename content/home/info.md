@@ -13,12 +13,4 @@ weight = 2
 
 +++
 
-The Family Migration and Early Life Outcomes (FAMELO) project studies the dynamic role migration may play in children’s lives. The project is made up of three distinct but interlinked studies analyzing children's:
-
-1. Socioemotional development
-2. Educational aspirations and expectations
-3. Early family formation and transition to adulthood
-
-We study these topics by conducting comparable longitudinal surveys of children and their caregivers in households with and without migrants in three traditional sending areas: Jalisco, Mexico; Gaza, Mozambique; and Chitwan, Nepal.
-
-
+openVA is software to run automated verbal autopsy coding algorithms. Development is ongoing, and things are changing rapidly. This site provides information useful for installing and running openVA. All of the software itself is contained in ‘packages’ written for the free, open-source statistical programming environment R. The packages are available through the Comprehensive R Archive Network (CRAN).

@@ -57,8 +57,8 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Graduate Students
+#user_groups:
+#- Graduate Students
 ---
 
-You can learn more about me [here](https://axxe.netlify.com/). 
+[Personal Website](https://eungangchoi.com/).

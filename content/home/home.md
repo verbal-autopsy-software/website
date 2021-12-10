@@ -4,7 +4,7 @@ widget = "hero"
 active = false
 date = 2017-10-15
 
-title = "FAMELO"
+title = "openVA"
 # Order that this section will appear in.
 weight = 2
 
@@ -22,6 +22,3 @@ weight = 2
   # url = "./post/getting-started/"
   # label = '<i class="fa fa-download"></i> Install Now'
 +++
-
-<br>
-The Family Migration and Early Life Outcomes (FAMELO) project studies the dynamic role migration may play in children’s lives.

@@ -18,7 +18,7 @@ organizations:
   url: "https://sociology.osu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: aaa
 
 interests:
 
@@ -61,4 +61,5 @@ user_groups:
 - Research Team
 ---
 
-[Personal Website](https://eungangchoi.com/).
+[Personal Website](https://eungangchoi.com/)
+

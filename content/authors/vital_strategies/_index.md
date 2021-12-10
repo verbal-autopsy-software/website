@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 
+name: Vital Strategies
 
 # Username (this should match the folder name)
 authors:

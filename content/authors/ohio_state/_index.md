@@ -14,8 +14,8 @@ role: The Ohio State University
 
 # Organizations/Affiliations
 organizations:
-- name: The Ohio State University
-  url: "https://sociology.osu.edu/"
+- name: Vital Strategies
+  url: "https://www.vitalstrategies.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -58,5 +58,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Institutions
+- Partners
 ---

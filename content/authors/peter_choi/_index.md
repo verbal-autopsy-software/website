@@ -18,7 +18,7 @@ organizations:
   url: "https://sociology.osu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: aaa
+bio:
 
 interests:
 
@@ -37,9 +37,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:choi.1443@osu.edu'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
- # icon_pack: fab
-  #link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/eungang_choi
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ONfbbeoAAAAJ&hl=en
@@ -60,6 +60,12 @@ email: ""
 user_groups:
 - Research Team
 ---
+
+I am a Ph.D. candidate in the [Department of Sociology](https://sociology.osu.edu/) at The Ohio State University. I am a graduate affiliate for [Institute for Population Research (IPR)](https://ipr.osu.edu/) and an associate at the [Translational Data Analytics Institute (TDAI)](https://tdai.osu.edu/). I am also working as a GRA with NCACI (Nationwide Center for Advanced Consumer Insight), where I am gaining experience as a data scientist for [Nationwide](https://www.nationwide.com/).
+
+My advisor is [Sam Clark](http://www.samclark.net/) and I am also part of the [openVA](http://openva.net/) team.
+
+My research interest includes fertility, mortality, and inequality. I use methods that are broadly bound by computational social science to collect and analyze data for my research. Network analysis, NLP, machine learning, computer vision, and deep learning are some of the methods I am actively engaged with in my research.
 
 [Personal Website](https://eungangchoi.com/)
 

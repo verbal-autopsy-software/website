@@ -15,7 +15,7 @@ role:
 # Organizations/Affiliations
 organizations:
 - name: The Ohio State University
-  url: "https://sociology.osu.edu/"
+  url: "https://www.osu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:

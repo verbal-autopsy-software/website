@@ -1,7 +1,7 @@
 +++
 # A Projects section created with the Portfolio widget.
 widget = "Software"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = True  # This file represents a page section.
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 

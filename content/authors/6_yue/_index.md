@@ -64,5 +64,5 @@ user_groups:
 
 I am a graduate student in Department of Sociology at The Ohio State University, with multidisciplinary training and working experience in demography, epidemiology, population health, applied statistics and clinical medicine. My research involves development of population health statistics and demographic methodologies, estimation of disease burden and health disparities, health programs monitoring and evaluation, and the evidence-based practices in public health and medicine, primarily focusing on low- and middle- income countries (LMICs) and vulnerable populations. 
 
-[Personal Website](https://eungangchoi.com/)
+[Personal Website](https://y-chu.github.io/)
 

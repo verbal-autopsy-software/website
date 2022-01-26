@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 
 
 title = "Software"
-subtitle = "Please find further materials on https://github.com/verbal-autopsy-software "
+subtitle = "All softwares can be found on our [Github](https://github.com/verbal-autopsy-software)"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

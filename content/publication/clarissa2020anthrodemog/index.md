@@ -1,6 +1,6 @@
 ---
 title: "The Anthropological Demography of Health"
-date: 2021-09-16
+date:
 publishDate:
 authors: ["Surek-Clark, Clarissa"]
 publication_types: ["2"]

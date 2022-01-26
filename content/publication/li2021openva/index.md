@@ -1,6 +1,6 @@
 ---
 title: "The openVA toolkit for Verbal Autopsies"
-date: 2021-09-16
+date:
 publishDate:
 authors: ["Zehang Richard Li", "Jason Thomas", "Eungang Choi", "Tyler H. McCormick", "Samuel J. Clark"]
 publication_types: ["2"]

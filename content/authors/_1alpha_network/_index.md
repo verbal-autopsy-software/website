@@ -1,7 +1,6 @@
 ---
 # Display name
-name: [Alpha Network](https://alpha.lshtm.ac.uk/metadata/)
-url: "https://alpha.lshtm.ac.uk/metadata/"
+name: [Alpha Network]("https://alpha.lshtm.ac.uk/metadata/")
 
 # Username (this should match the folder name)
 authors:

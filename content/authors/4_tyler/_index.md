@@ -4,7 +4,7 @@ name: Tyler McCormick
 
 # Username (this should match the folder name)
 authors:
-- 1_tyler
+- 4_tyler
 
 # Is this the primary user of the site?
 superuser: false

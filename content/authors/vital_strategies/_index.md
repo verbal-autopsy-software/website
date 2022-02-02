@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Vital Strategies
+role:
 
 # Organizations/Affiliations
 organizations:

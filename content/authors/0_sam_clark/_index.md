@@ -4,7 +4,7 @@ name: Sam Clark
 
 # Username (this should match the folder name)
 authors:
-- sam_clark
+- 0_sam_clark
 
 # Is this the primary user of the site?
 superuser: false
@@ -58,7 +58,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigator
+- Research Team
 ---
 
 I am a demographer, epidemiologist, and data scientist who develops new methods and investigates population dynamics and epidemiology, primarily in low- and middle-income countries, with a focus in Africa. 

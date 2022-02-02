@@ -1,6 +1,6 @@
 ---
 # Display name
-name: CDC
+name: CDC Foundation
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: CDC
+role:
 
 # Organizations/Affiliations
 organizations:

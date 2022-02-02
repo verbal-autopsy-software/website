@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Alpha Network
+name: NICHD
 
 # Username (this should match the folder name)
 authors:
-- alpha_network
+- _0nichd
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Alpha Network
-  url: "https://alpha.lshtm.ac.uk/metadata/"
+- name: NICHD
+  url: "https://www.nichd.nih.gov/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

@@ -4,7 +4,7 @@ name: CDC Foundation
 
 # Username (this should match the folder name)
 authors:
-- cdc
+- _3cdc
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: CDC
-  url: "https://www.cdc.gov/"
+- name: CDC Foundation
+  url: "https://www.cdcfoundation.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

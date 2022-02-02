@@ -1,6 +1,6 @@
 ---
 # Display name
-name: [Alpha Network]("https://alpha.lshtm.ac.uk/metadata/")
+name: Alpha Network
 
 # Username (this should match the folder name)
 authors:
@@ -15,7 +15,7 @@ role:
 # Organizations/Affiliations
 organizations:
 - name: Alpha Network
-  url: "https://alpha.lshtm.ac.uk/metadata/"
+  url: "https://alpha.lshtm.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

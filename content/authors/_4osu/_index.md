@@ -4,7 +4,7 @@ name: The Ohio State University
 
 # Username (this should match the folder name)
 authors:
-- osu
+- _4osu
 
 # Is this the primary user of the site?
 superuser: false

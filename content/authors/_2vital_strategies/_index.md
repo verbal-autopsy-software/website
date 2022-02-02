@@ -4,7 +4,7 @@ name: Vital Strategies
 
 # Username (this should match the folder name)
 authors:
-- vital_strategies
+- _2vital_strategies
 
 # Is this the primary user of the site?
 superuser: false

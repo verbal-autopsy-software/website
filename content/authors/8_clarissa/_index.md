@@ -4,7 +4,7 @@ name: Clarissa Surek-Clark
 
 # Username (this should match the folder name)
 authors:
-- 5_clarissa
+- 8_clarissa
 
 # Is this the primary user of the site?
 superuser: false

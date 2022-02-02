@@ -4,7 +4,7 @@ name: Sherry Zhao
 
 # Username (this should match the folder name)
 authors:
-- 9_sherry
+- 1_sherry
 
 # Is this the primary user of the site?
 superuser: false

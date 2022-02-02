@@ -1,10 +1,11 @@
 ---
 # Display name
-name: Melina Raglin
+name: [Alpha Network](https://alpha.lshtm.ac.uk/metadata/)
+url: "https://alpha.lshtm.ac.uk/metadata/"
 
 # Username (this should match the folder name)
 authors:
-- melina_raglin
+- _1alpha_network
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,17 +15,17 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: The Ohio State University
-  url: "https://www.osu.edu/"
+- name: Alpha Network
+  url: "https://alpha.lshtm.ac.uk/metadata/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 interests:
 
 #education:
 #  courses:
-#  - course: 
+#  - course: Mexico
 #    institution: 
 #    year: 
 
@@ -33,13 +34,19 @@ interests:
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:raglin.11@osu.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/mlraglin
+#social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:axxe.1@buckeyemail.osu.edu'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+ # icon_pack: fab
+  #link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+ # icon_pack: ai
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/axxeerick
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -52,10 +59,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Team
+- Partners
 ---
-
-Melina Raglin is a third-year undergraduate student at The Ohio State University majoring in data analytics and minoring in sociology. She is a student member of the Translational Data Analytics Institute and has been researching in computational social science through OSU's Department of Sociology for the past two years. Melina is also a member of the Big Data Analytics Institute and an Academic Path Peer Mentor for Ohio State's Data Analytics program.
-
-[Personal Website](https://www.melinaraglin.com/)
-

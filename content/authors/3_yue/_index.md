@@ -4,7 +4,7 @@ name: Yue Chu
 
 # Username (this should match the folder name)
 authors:
-- 6_yue
+- 3_yue
 
 # Is this the primary user of the site?
 superuser: false

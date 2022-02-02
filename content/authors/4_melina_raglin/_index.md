@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Jason Thomas
+name: Melina Raglin
 
 # Username (this should match the folder name)
 authors:
-- 2_jason
+- 4_melina_raglin
 
 # Is this the primary user of the site?
 superuser: false
@@ -36,10 +36,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:thomas.3912@osu.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:raglin.11@osu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/jarathomas
+  link: https://github.com/mlraglin
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -55,6 +55,7 @@ user_groups:
 - Research Team
 ---
 
+Melina Raglin is a third-year undergraduate student at The Ohio State University majoring in data analytics and minoring in sociology. She is a student member of the Translational Data Analytics Institute and has been researching in computational social science through OSU's Department of Sociology for the past two years. Melina is also a member of the Big Data Analytics Institute and an Academic Path Peer Mentor for Ohio State's Data Analytics program.
 
-[Personal Website](https://jarathomas.github.io/)
+[Personal Website](https://www.melinaraglin.com/)
 

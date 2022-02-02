@@ -4,7 +4,7 @@ name: Eungang Peter Choi
 
 # Username (this should match the folder name)
 authors:
-- 3_peter_choi
+- 2_peter_choi
 
 # Is this the primary user of the site?
 superuser: false

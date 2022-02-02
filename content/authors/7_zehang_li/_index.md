@@ -4,7 +4,7 @@ name: Zehang Richard Li
 
 # Username (this should match the folder name)
 authors:
-- 1_zehang_li
+- 7_zehang_li
 
 # Is this the primary user of the site?
 superuser: false

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sam Clark
+name: Sam Clark, PI
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sam Clark, PI
+name: Sam Clark
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role:
+role: PI
 
 # Organizations/Affiliations
 organizations:

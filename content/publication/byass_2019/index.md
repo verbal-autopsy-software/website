@@ -8,6 +8,6 @@ abstract: "Verbal autopsy is an increasingly important methodology for assigning
 featured: false
 publication: "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1333-6"
 url_pdf: "https://bmcmedicine.biomedcentral.com/track/pdf/10.1186/s12916-019-1333-6.pdf"
-doi: ""
+doi: "https://doi.org/10.1186/s12916-019-1333-6"
 ---
 

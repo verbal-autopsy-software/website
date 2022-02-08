@@ -1,6 +1,6 @@
 ---
 title: "Automated versus physician assignment of cause of death for verbal autopsies: randomized trial of 9374 deaths in 117 villages in India"
-date: 2021-10-10
+date: 2019-06-27
 publishDate:
 authors: ["Prabhat Jha", "Dinesh Kumar", "Rajesh Dikshit", "Atul Budukh", "Rehana Begum", "Prabha Sati", "Patrycja Kolpak", "Richard Wen", "Shyamsundar J. Raithatha", "Utkarsh Shah", "Zehang Richard Li", "Lukasz Aleksandrowicz", "Prakash Shah", "Kapila Piyasena", "Tyler H. McCormick", "Hellen Gelband", "Samuel J. Clark" ]
 publication_types: ["2"]

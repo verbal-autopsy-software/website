@@ -5,7 +5,7 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "openVA Team [Under Construction]"
+title = "openVA Team"
 subtitle = ""
 
 # List user groups to display.

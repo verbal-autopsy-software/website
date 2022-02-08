@@ -1,6 +1,6 @@
 ---
 title: "Probabilistic Cause-of-Death Assignment Using Verbal Autopsies"
-date: 2020-03-26
+date: 2016-04-11
 publishDate:
 authors: ["Tyler H. McCormick", "Zehang Richard Li", "Clara Calvert", "Amelia C. Crampin", "Kathleen Kahn", "Samuel J. Clark"]
 publication_types: ["2"]

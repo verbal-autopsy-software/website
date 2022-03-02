@@ -60,3 +60,5 @@ email: ""
 user_groups:
 - Supporters & Partners
 ---
+
+An R01 grant from NICHD supports work on statistical methods for automated cause of death classification using VA data and work to understand how the VA interview in different contexts affects VA data and ultimately the causes assigned to VA deaths.  

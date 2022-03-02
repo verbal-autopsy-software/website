@@ -1,10 +1,10 @@
 ---
 # Display name
-name: The Ohio State University
+name: Bloomberg Philanthropies
 
 # Username (this should match the folder name)
 authors:
-- _4osu
+- _5bloom
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: The Ohio State University
-  url: "https://www.osu.edu/"
+- name: Bloomberg Philanthropies Data for Health Initiative
+  url: "https://www.bloomberg.org/public-health/strengthening-health-data/data-for-health/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -61,5 +61,5 @@ user_groups:
 - Supporters & Partners
 ---
 
-The Institute for Population Research (IPR) at The Ohio State University hosts the grants and contracts that support the work of the openVA Team and employs Jason Thomas.
+The Bloomberg Philanthropies' Data for Health Initiative supports both Vital Strategies and the CDC Foundation, who in turn, support the openVA Team. The Data for Health Initiative is a significant program that aims to rapidly improve civil registration and vital statistics in number of low- and middle-income countries. VA is an integral part of the plan to improve vital statistics systems by creating a feasible means by which to quantify cause of death and estimate the burden of disease.
 

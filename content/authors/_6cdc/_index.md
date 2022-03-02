@@ -1,10 +1,10 @@
 ---
 # Display name
-name: The Ohio State University
+name: CDC
 
 # Username (this should match the folder name)
 authors:
-- _4osu
+- _6cdc
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: The Ohio State University
-  url: "https://www.osu.edu/"
+- name: CDC
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -61,5 +61,5 @@ user_groups:
 - Supporters & Partners
 ---
 
-The Institute for Population Research (IPR) at The Ohio State University hosts the grants and contracts that support the work of the openVA Team and employs Jason Thomas.
+The US CDC is supported by the Data for Health Initiative as one of the implementing partners. The Global Program for Civil Registration and Vital Statistics (CRVS) Improvement within the National Center for Health Statistics conducts the work of this program and coordinates closely with the openVA Team on the activities supported by the CDC Foundation.
 

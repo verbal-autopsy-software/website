@@ -60,3 +60,5 @@ email: ""
 user_groups:
 - Supporters & Partners
 ---
+
+The ALPHA Network of health and demographic surveillance sites has provided a wide variety of VA data that has been critical to developing and validating statistical methods for cause of death classification using VA data. 

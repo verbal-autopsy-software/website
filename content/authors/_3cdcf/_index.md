@@ -60,3 +60,6 @@ email: ""
 user_groups:
 - Supporters & Partners
 ---
+
+The CDC Foundation has supported work by the openVA Team to support the WHO Verbal Autopsy Reference Group to create the WHO 2022 standard VA instrument. CDC Foundation support has also contributed to the openVA Pipeline and a variety of related work to improve openVA and integrate with at-scale mortality surveillance systems.
+

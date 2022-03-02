@@ -60,3 +60,5 @@ email: ""
 user_groups:
 - Supporters & Partners
 ---
+
+Vital Strategies has supported work on the openVA Pipeline that integrates the openVA suite of computer-coding algorithms into civil registration and vital statistics systems. The openVA pipeline automates the flow of data from the ODK electronic data collection platform, through the algorithms that assign causes, and finally to DHIS-2 - the district health information system used in many of the relevant settings. Vital Strategies supports a variety of related work to improve openVA and integrate with at-scale mortality surveillance systems.

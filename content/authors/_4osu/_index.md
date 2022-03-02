@@ -60,3 +60,6 @@ email: ""
 user_groups:
 - Supporters & Partners
 ---
+
+The Institute for Population Research (IPR) at The Ohio State University hosts the grants and contracts that support the work of the openVA Team and employs Jason Thomas.
+

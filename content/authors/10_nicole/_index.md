@@ -36,7 +36,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'angotti@american.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:angotti@american.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=GSYkhLoAAAAJ&hl=en

@@ -61,6 +61,16 @@ user_groups:
 - Research Team
 ---
 
+Sam Clark is a demographer, epidemiologist, and data scientist who develops new methods and does research in demography and epidemiology. 
+
+Sam is a [professor](https://sociology.osu.edu/people/clark.2962) in the [Department of Sociology](https://sociology.osu.edu/) at [The Ohio State University (OSU)](https://www.osu.edu/) and a faculty affiliate of the [Institute for Population Research](https://ipr.osu.edu/) and the [Translational Data Analytics Institute](https://tdai.osu.edu/), both at OSU. He is affiliated with the [Department of Statistics](https://stat.uw.edu/) at the University of Washington and the [School of Public Health](https://www.wits.ac.za/publichealth/) at the University of the Witwatersrand. 
+
+Sam works to improve: 1) [verbal autopsy](https://samclark.net/site/projects/verbal-autopsy.shtml) as a tool to measure the burden of disease, 2) mathematical models of human mortality, 3) [indirect estimates of child mortality](https://samclark.net/site/projects/indirect-estimates.shtml), and 4) [small-area estimates of mortality](https://samclark.net/site/projects/small-area-estimates.shtml). Sam also coordinates a small team developing open-source software to implement new methods - mostly for verbal autopsy and mathematical models of human mortality.
+
+Sam leads the [openVA Team](https://openva.net/) that works to improve [verbal autopsy](https://samclark.net/site/projects/verbal-autopsy.shtml). He has been a member of the [WHO Verbal Autopsy Reference Group (VARG)](https://www.who.int/standards/classifications/other-classifications/verbal-autopsy-standards-ascertaining-and-attributing-causes-of-death-tool) since it was formed in 2013. Over the past several years he has been an active member of the VARG Task Group coordinating a comprehensive update of the WHO Standard Verbal Autopsy Instrument. The openVA Team develops and maintains tools that support the WHO standard.
+
+
+
 I am a demographer, epidemiologist, and data scientist who develops new methods and investigates population dynamics and epidemiology, primarily in low- and middle-income countries, with a focus in Africa. 
 I work as a [professor](https://sociology.osu.edu/people/clark.2962) in the [Department of Sociology](https://sociology.osu.edu/) at [The Ohio State University (OSU)](https://www.osu.edu/), and I am a faculty affiliate of the [Institute for Population Research](https://ipr.osu.edu/) and the [Translational Data Analytics Institute](https://tdai.osu.edu/), both at OSU. I am affiliated with the [Department of Statistics](https://stat.uw.edu/) at the University of Washington and the [School of Public Health](https://www.wits.ac.za/publichealth/) at the University of the Witwatersrand. 
 

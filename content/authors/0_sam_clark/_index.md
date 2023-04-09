@@ -70,13 +70,5 @@ Sam works to improve: 1) [verbal autopsy](https://samclark.net/site/projects/ver
 Sam leads the [openVA Team](https://openva.net/) that works to improve [verbal autopsy](https://samclark.net/site/projects/verbal-autopsy.shtml). He has been a member of the [WHO Verbal Autopsy Reference Group (VARG)](https://www.who.int/standards/classifications/other-classifications/verbal-autopsy-standards-ascertaining-and-attributing-causes-of-death-tool) since it was formed in 2013. Over the past several years he has been an active member of the VARG Task Group coordinating a comprehensive update of the WHO Standard Verbal Autopsy Instrument. The openVA Team develops and maintains tools that support the WHO standard.
 
 
-
-I am a demographer, epidemiologist, and data scientist who develops new methods and investigates population dynamics and epidemiology, primarily in low- and middle-income countries, with a focus in Africa. 
-I work as a [professor](https://sociology.osu.edu/people/clark.2962) in the [Department of Sociology](https://sociology.osu.edu/) at [The Ohio State University (OSU)](https://www.osu.edu/), and I am a faculty affiliate of the [Institute for Population Research](https://ipr.osu.edu/) and the [Translational Data Analytics Institute](https://tdai.osu.edu/), both at OSU. I am affiliated with the [Department of Statistics](https://stat.uw.edu/) at the University of Washington and the [School of Public Health](https://www.wits.ac.za/publichealth/) at the University of the Witwatersrand. 
-
-During 2020 I worked on a survey to estimate the prevalence of the coronavirus and an excess deaths study to characterize the total burden of mortality associated with the COVID-19 epidemic. Both projects are in the state of Ohio, USA and were conducted in coordination with the Ohio State Department of Health.
-
-On an ongoing basis I work to improve: 1) verbal autopsy as a tool to measure the burden of disease, 2) mathematical models of human mortality, 3) indirect estimates of child mortality, and 4) small-area estimates of mortality. I also coordinate a small team developing software to implement new methods - mostly for verbal autopsy and mathematical models of human mortality.
-
 [Personal Website](https://samclark.net/)
 

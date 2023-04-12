@@ -75,7 +75,6 @@ List of Countries that use Verbal Autopsy (as of Apr. 2022)
 
 {{< rawhtml >}}
 <div>
-    {{ $figure := resources.Get "/static/img/va_list.html" }}
-    {{ $figure.Content | safeHTML }}
+    {{ $figure := resources.Get "static/img/va_list.html" }}
 </div>
 {{< /rawhtml >}}

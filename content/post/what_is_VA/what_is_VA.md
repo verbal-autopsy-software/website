@@ -71,9 +71,5 @@ the interview based on the questionaire is administered "to the family or caregi
 
 # Where?
 
-List of Countries that use Verbal Autopsy (as of Apr. 2022)
 
-<div>
-    {{ $figure := resources.Get "/files/va_list.html" }}
-    {{ $figure.Content | safeHTML }}
-</div>
+{{< figure src="/files/va_list.html title=">List of Countries that use Verbal Autopsy (as of Apr. 2022) >}}

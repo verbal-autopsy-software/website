@@ -71,4 +71,6 @@ the interview based on the questionaire is administered "to the family or caregi
 
 # Where?
 
-<a href="va_ListofCountries.html" title=">List of Countries that use Verbal Autopsy (as of Apr. 2022)">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="va_ListofCountries.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="List of Countries that use Verbal Autopsy (as of Apr. 2022)"></iframe>
+</div>

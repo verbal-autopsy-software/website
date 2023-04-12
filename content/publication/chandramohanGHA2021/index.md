@@ -12,8 +12,8 @@ This paper highlights the many contributions the late Professor Peter Byass made
 
 This paper also provides an overview of the methods used to improve the current WHO VA standards, a catalogue of the changes and improvements in the instruments, and a mapping of current applications of the WHO VA standard approach in LMICs. It also provides access to tools and guidance needed for VA implementation in Civil Registration and Vital Statistics Systems at scale."
 featured: true
-publication: ""
-url_pdf: ""
-doi: ""
+publication: "https://www.tandfonline.com/doi/full/10.1080/16549716.2021.1982486"
+url_pdf: "https://www.tandfonline.com/doi/epdf/10.1080/16549716.2021.1982486?needAccess=true&role=button"
+doi: "https://doi.org/10.1080/16549716.2021.1982486"
 ---
 

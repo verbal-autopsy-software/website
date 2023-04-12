@@ -20,7 +20,7 @@ Conclusion:
 HIV-infected women face higher rates of mortality from direct maternal causes, which suggests that we need to improve access to quality maternity care for these women. These findings also have implications for the surveillance of HIV/AIDS-related mortality, as not all excess mortality attributable to HIV will be explicitly attributed to HIV/AIDS on the basis of a verbal autopsy interview."
 featured: false
 publication: "https://journals.lww.com/aidsonline/FullText/2020/07150/Direct_maternal_deaths_attributable_to_HIV_in_the.13.aspx"
-url_pdf: ""
+url_pdf: "https://journals.lww.com/aidsonline/_layouts/15/oaks.journals/downloadpdf.aspx?trckng_src_pg=ArticleViewer&an=00002030-202007150-00013"
 doi: "10.1097/QAD.0000000000002552"
 ---
 

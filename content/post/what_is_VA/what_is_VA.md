@@ -17,7 +17,7 @@ draft: false
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image: 
-  placement: '1'
+  placement: 1
   caption: 'List of Countries that use Verbal Autopsy (as of Apr. 2022'
   focal_point: "Center"
   preview_only: false

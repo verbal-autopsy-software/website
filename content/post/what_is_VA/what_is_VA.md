@@ -16,11 +16,11 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-image: 
-  placement: 1
-  caption: 'List of Countries that use Verbal Autopsy (as of Apr. 2022'
-  focal_point: "Center"
-  preview_only: false
+# image: 
+#   placement: 1
+#   caption: ''
+#   focal_point: "Center"
+#   preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -57,16 +57,25 @@ projects: []
 #   image: theme-strawberry.png
 ---
 
-## What?
+# What?
 
 Verbal autopsy (VA) is a survey-based tool widely used to infer cause of death (COD) in regions without complete-coverage civil registration and vital statistics systems ([Li et al. 2023](https://openva.net/publication/li2021openva/)). 
 
-## When?
+# When?
 
 "after a suitable bereavement interval ([Chandramohan et al. 2021](https://openva.net/publication/chandramohangha2021/))" after a death has occured
 
-## Who?
+# Who?
 
 the interview based on the questionaire is administered "to the family or caregivers of the deceased after a suitable bereavement interval ([Chandramohan et al. 2021](https://openva.net/publication/chandramohangha2021/))."
 
 # Where?
+
+List of Countries that use Verbal Autopsy (as of Apr. 2022)
+
+{{< rawhtml >}}
+<div>
+    {{ $figure := resources.Get "/static/img/va_list.html" }}
+    {{ $figure.Content | safeHTML }}
+</div>
+{{< /rawhtml >}}

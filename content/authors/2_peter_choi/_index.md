@@ -61,7 +61,7 @@ user_groups:
 - Research Team
 ---
 
-I am a Ph.D. candidate in the [Department of Sociology](https://sociology.osu.edu/) at The Ohio State University. I am a graduate affiliate for [Institute for Population Research (IPR)](https://ipr.osu.edu/) and an associate at the [Translational Data Analytics Institute (TDAI)](https://tdai.osu.edu/). I am also working as a GRA with NCACI (Nationwide Center for Advanced Consumer Insight), where I am gaining experience as a data scientist for [Nationwide](https://www.nationwide.com/).
+I have obtained a Ph.D. in the [Department of Sociology](https://sociology.osu.edu/) at The Ohio State University. I am a graduate affiliate for [Institute for Population Research (IPR)](https://ipr.osu.edu/) and an associate at the [Translational Data Analytics Institute (TDAI)](https://tdai.osu.edu/). I am also working as a GRA with NCACI (Nationwide Center for Advanced Consumer Insight), where I am gaining experience as a data scientist for [Nationwide](https://www.nationwide.com/).
 
 My advisor is [Sam Clark](http://www.samclark.net/) and I am also part of the [openVA](http://openva.net/) team.
 

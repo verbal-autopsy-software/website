@@ -56,7 +56,7 @@ user_groups:
 - Research Team
 ---
 
-I am a sociologist whose research addresses cultural, social, and institutional dimensions of health and wellbeing. I have a long-standing interest in the social production of data about health, particularly with respect to interviewer and participant interaction. I work as a professor in the Department of Sociology at American University, and I am affiliated with the School of Public Health at the University of the Witwatersrand in South Africa. 
+I am a sociologist whose research addresses cultural, social, and institutional dimensions of health and wellbeing. I have a long-standing interest in the social production of data about health, particularly as informed by interviewer and participant interaction. I work as a professor in the [Department of Sociology](https://www.american.edu/cas/sociology/) at American University (AU), where I also serve as associate director of AU’s [Center on Health, Risk, and Society](https://www.american.edu/cas/sociology/chrs/). I am affiliated with the [Maryland Population Research Center](https://www.popcenter.umd.edu/) at the University of Maryland College Park as well as the [School of Public Health](https://www.agincourt.co.za/) at the University of the Witwatersrand in South Africa.
 
 
 [Personal Website](https://www.american.edu/cas/faculty/angotti.cfm)

@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Issac Lyatuu
+name: Isaac Lyatuu
 
 # Username (this should match the folder name)
 authors:
-- 13_issac_lyatuu
+- 13_isaac_lyatuu
 
 # Is this the primary user of the site?
 superuser: false

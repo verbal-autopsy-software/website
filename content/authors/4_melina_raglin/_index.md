@@ -52,7 +52,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Team
+- Emeritus Members
 ---
 
 Melina Raglin is a third-year undergraduate student at The Ohio State University majoring in data analytics and minoring in sociology. She is a student member of the Translational Data Analytics Institute and has been researching in computational social science through OSU's Department of Sociology for the past two years. Melina is also a member of the Big Data Analytics Institute and an Academic Path Peer Mentor for Ohio State's Data Analytics program.

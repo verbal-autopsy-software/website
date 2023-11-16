@@ -58,7 +58,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Team
+- Emeritus Members
 ---
 
 I have obtained a Ph.D. in the [Department of Sociology](https://sociology.osu.edu/) at The Ohio State University. I am a graduate affiliate for [Institute for Population Research (IPR)](https://ipr.osu.edu/) and an associate at the [Translational Data Analytics Institute (TDAI)](https://tdai.osu.edu/). I am also working as a GRA with NCACI (Nationwide Center for Advanced Consumer Insight), where I am gaining experience as a data scientist for [Nationwide](https://www.nationwide.com/).

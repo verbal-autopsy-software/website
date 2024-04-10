@@ -14,4 +14,4 @@ title = "Contact Us"
 + For questions or help request, please contact [help@openva.net](mailto:help@openva.net)
 
 ### Issues reporting
-+ To reporting issues or comment on software, please visit [Github](https://github.com/verbal-autopsy-software/openVA/issues)
++ To report issues or provide feedback / suggestions on VA softwares, please visit [Github](https://github.com/verbal-autopsy-software/openVA/issues)

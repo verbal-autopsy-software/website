@@ -1,12 +1,3 @@
-+++
-# pages widget.
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-
-title = "Contact Us"
-+++
-
 [[params.links.developer]]
   name = "More info"
   url = "mailto:info@openva.net"

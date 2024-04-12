@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Recent News"
-subtitle = ""
+title = ""
+subtitle = "Recent News"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -22,8 +22,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  gradient_start = "OxfordBlue"
+  gradient_end = "MidnightBlue"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
@@ -47,5 +47,5 @@ subtitle = ""
 * April 10th, 2024: New release of the Python openVA GUI available on the [GitHub repository](https://github.com/verbal-autopsy-software/pyopenva_GUI)
 under releases.  *Note additional instructions for macOS users described on the main page.*
 
-* Working paper available on Archive
+* Working paper available on arxv
 

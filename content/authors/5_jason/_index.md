@@ -58,3 +58,8 @@ user_groups:
 
 [Personal Website](https://jarathomas.github.io/)
 
+Jason is a research scientist at the [Institute for Population Research](https://ipr.osu.edu/)
+at [The Ohio State University](https://www.osu.edu/).  As member of the openVA Team, Jason is
+involved with software development, training, and data analysis.  In addition to verbal autopsy,
+his academic research interests include health, fertility, mortality, developing demographic methods,
+and the links between population dynamics and climate change.

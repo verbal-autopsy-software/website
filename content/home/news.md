@@ -23,7 +23,7 @@ subtitle = "Recent News"
   
   # Background gradient.
   gradient_start = "navy"
-  gradient_end = "smoke"
+  gradient_end = "grey"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.

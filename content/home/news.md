@@ -50,4 +50,4 @@ under releases.  *Note additional instructions for macOS users described on the 
 * April 3rd, 2024: [Tyler McCormick](https://openva.net/authors/6_tyler/) and colleagues have a new paper on arxiv:
 ("From Narratives to Number: Valid Inference Using Language Model Predictions From Verbal Autopsy Narratives.")[(https://doi.org/10.48550/arXiv.2404.02438)]
 
-<sub>([see all news items]({{< ref "/news/_index.md" >}}))</sub>
+<sub>([see all news items]({{< ref "/news/index.md" >}}))</sub>

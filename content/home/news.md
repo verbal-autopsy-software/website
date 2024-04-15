@@ -1,5 +1,5 @@
 +++
-# News
+# Recent_News
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -47,5 +47,7 @@ subtitle = "Recent News"
 * April 10th, 2024: New release of the Python openVA GUI available on the [GitHub repository](https://github.com/verbal-autopsy-software/pyopenva_GUI)
 under releases.  *Note additional instructions for macOS users described on the main page.*
 
-* Working paper available on arxv
+* April 3rd, 2024: [Tyler McCormick](https://openva.net/authors/6_tyler/) and colleagues have a [NEW PAER ON ARXIV](https://doi.org/10.48550/arXiv.2404.02438): "From Narratives to Number:
+Valid Inference Using Language Model Predictions From Verbal Autopsy Narratives."
 
+([see all news items]({{"/news/news.md"}}))

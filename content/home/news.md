@@ -45,7 +45,7 @@ subtitle = "Recent News"
 +++
 
 * April 10th, 2024: New release of the Python openVA GUI available on the [GitHub repository](https://github.com/verbal-autopsy-software/pyopenva_GUI)
-under releases.  *Note additional instructions for macOS users described on the main page.*
+under releases.  <br> *(note the additional instructions for macOS users on the main page)*
 
 * April 3rd, 2024: [Tyler McCormick](https://openva.net/authors/6_tyler/) and colleagues have a new paper on arxiv:
 ["From Narratives to Numbers: Valid Inference Using Language Model Predictions From Verbal Autopsy Narratives."](https://doi.org/10.48550/arXiv.2404.02438)

@@ -59,7 +59,6 @@ under assets.  <br> *(note the [additional instructions for macOS users on the m
 
 
 <sub>([see all news items]({{< ref "/news/index.md" >}}))
-<div style="text-align: right">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 For questions or more information, please contact: [help@openva.net](mailto:help@openva.net) &nbsp;&nbsp; & &nbsp;&nbsp; [info@openva.net](mailto:info@openva.net)
-<div>
 </sub>

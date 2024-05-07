@@ -58,7 +58,9 @@ under assets.  <br> *(note the [additional instructions for macOS users on the m
 (https://doi.org/10.1080/16549716.2023.2285105)
 
 
-<sub>([see all news items]({{< ref "/news/index.md" >}}))
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-For questions or more information, please contact: [help@openva.net](mailto:help@openva.net) &nbsp;&nbsp; & &nbsp;&nbsp; [info@openva.net](mailto:info@openva.net)
+<sub>([see all news items]({{< ref "/news/index.md" >}}))</sub>
+<div text-align: right;>
+<sub>
+For questions or more information, please contact: [help@openva.net](mailto:help@openva.net) &nbsp; & &nbsp; [info@openva.net](mailto:info@openva.net)
 </sub>
+</div>

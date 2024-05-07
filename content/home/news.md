@@ -44,10 +44,21 @@ subtitle = "Recent News"
  css_class = ""
 +++
 
-* April 10th, 2024: New release of the Python openVA GUI available on the [GitHub repository](https://github.com/verbal-autopsy-software/pyopenva_GUI)
-under releases.  <br> *(note the additional instructions for macOS users on the main page)*
+* May 7th, 2024: [Zehang Richard Li](https://openva.net/authors/7_zehang_li/) and colleages have a new article published in *The Anals of Applied Statistics*:
+["Bayesian nested latent class models for cause-of-death assignment using verbal autopsies across multiple domains"](https://doi.org/10.1214/23-AOAS1826)
+
+* April 10th, 2024: New release of the Python openVA GUI available on the [GitHub repository](https://github.com/verbal-autopsy-software/pyopenva_GUI/releases)
+under assets.  <br> *(note the [additional instructions for macOS users on the main page](https://github.com/verbal-autopsy-software/pyopenva_GUI))*
 
 * April 3rd, 2024: [Tyler McCormick](https://openva.net/authors/6_tyler/) and colleagues have a new paper on arxiv:
 ["From Narratives to Numbers: Valid Inference Using Language Model Predictions From Verbal Autopsy Narratives."](https://doi.org/10.48550/arXiv.2404.02438)
 
-<sub>([see all news items]({{< ref "/news/index.md" >}}))</sub>
+* December 23, 2023: members the openVA Team have a new article published in *Global Health Action*:
+["Agreement between cause of death assignment by computer-coded verbal autopsy methods and physician coding of verbal autopsy interviews in South Africa"]
+(https://doi.org/10.1080/16549716.2023.2285105)
+
+
+<sub>([see all news items]({{< ref "/news/index.md" >}}))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+For questions and information, please contact: [help@openva.net](mailto:help@openva.net)    [info@openva.net](mailto:info@openva.net)
+</sub>

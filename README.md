@@ -1,2 +1,2 @@
 # website
-website for openva.com
+website for openva.net

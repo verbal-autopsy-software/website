@@ -16,6 +16,9 @@ date_format = "Jan 2006"
 
 ### 2024
 
+* May 7th, 2024: [Zehang Richard Li](https://openva.net/authors/7_zehang_li/) and colleages have a new article published in The Anals of Applied Statistics:
+["Bayesian nested latent class models for cause-of-death assignment using verbal autopsies across multiple domains"](https://doi.org/10.1214/23-AOAS1826)
+
 * (Apr 10th) New release of the Python openVA GUI available on the [GitHub repository](https://github.com/verbal-autopsy-software/pyopenva_GUI)
 under releases.  *Note additional instructions for macOS users described on the main page.*
 

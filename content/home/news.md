@@ -6,7 +6,13 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = ""
-subtitle = "Recent News"
+subtitle = "Recent News <sub>
+For questions or more information, please contact: [help@openva.net](mailto:help@openva.net) &nbsp; & &nbsp; [info@openva.net](mailto:info@openva.net)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</sub>"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -58,11 +64,5 @@ under assets.  <br> *(note the [additional instructions for macOS users on the m
 (https://doi.org/10.1080/16549716.2023.2285105)
 
 
-<sub>([see all news items]({{< ref "/news/index.md" >}}))
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-For questions or more information, please contact: [help@openva.net](mailto:help@openva.net) &nbsp; & &nbsp; [info@openva.net](mailto:info@openva.net)
-</sub>
+<sub>([see all news items]({{< ref "/news/index.md" >}}))</sub>
 

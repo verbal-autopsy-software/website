@@ -46,8 +46,9 @@ subtitle = ""
 
 <sub>
 For questions or more information, please contact:  [help@openva.net](mailto:help@openva.net) &nbsp; or &nbsp; [info@openva.net](mailto:info@openva.net)
-or submit issues on GitHub for [openVA (R version)](https://github.com/verbal-autopsy-software/openVA/issues) or
-for [(Python) openVA App](https://github.com/verbal-autopsy-software/pyopenva_GUI/issues)
+<br>
+Please submit issues on GitHub for [openVA (R version)](https://github.com/verbal-autopsy-software/openVA/issues)
+&nbsp; &nbsp; and for &nbsp; &nbsp; [(Python) openVA App](https://github.com/verbal-autopsy-software/pyopenva_GUI/issues)
 </sub>
 
 Recent News

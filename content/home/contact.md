@@ -8,14 +8,6 @@ weight = 4  # Order that this section will appear.
 title = ""
 subtitle = "For questions or more information, please contact:"
 
-<!-- # Automatically link email and phone? -->
-<!-- autolink = true -->
-
-<!-- # Email form provider -->
-<!-- #   0: Disable email form -->
-<!-- #   1: Netlify (requires that the site is hosted by Netlify) -->
-<!-- #   2: formspree.io -->
-<!-- email_form = 0 -->
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"

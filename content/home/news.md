@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = ""
-subtitle = "Recent News <sub>"
+subtitle = "Recent News"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -43,8 +43,6 @@ subtitle = "Recent News <sub>"
  # CSS class.
  css_class = ""
 +++
-
-* testing
 
 * May 7th, 2024: [Zehang Richard Li](https://openva.net/authors/7_zehang_li/) and colleages have a new article published in *The Anals of Applied Statistics*:
 ["Bayesian nested latent class models for cause-of-death assignment using verbal autopsies across multiple domains"](https://doi.org/10.1214/23-AOAS1826)

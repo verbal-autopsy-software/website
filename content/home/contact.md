@@ -2,11 +2,11 @@
 # Contact_info
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
 title = ""
-subtitle = "For questions or more information, please contact:"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -44,6 +44,7 @@ subtitle = "For questions or more information, please contact:"
  css_class = ""
 +++
 
+For questions or more information, please contact:
 [help@openva.net](mailto:help@openva.net) &nbsp; & &nbsp; [info@openva.net](mailto:info@openva.net)
 
 * [submit issues or requests for openVA (R version)](https://github.com/verbal-autopsy-software/openVA/issues)

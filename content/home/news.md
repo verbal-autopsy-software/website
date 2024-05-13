@@ -6,13 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = ""
-subtitle = "Recent News <sub>
-For questions or more information, please contact: [help@openva.net](mailto:help@openva.net) &nbsp; & &nbsp; [info@openva.net](mailto:info@openva.net)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</sub>"
+subtitle = "Recent News"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

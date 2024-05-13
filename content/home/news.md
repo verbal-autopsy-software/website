@@ -44,6 +44,8 @@ subtitle = "Recent News <sub>"
  css_class = ""
 +++
 
+* testing
+
 * May 7th, 2024: [Zehang Richard Li](https://openva.net/authors/7_zehang_li/) and colleages have a new article published in *The Anals of Applied Statistics*:
 ["Bayesian nested latent class models for cause-of-death assignment using verbal autopsies across multiple domains"](https://doi.org/10.1214/23-AOAS1826)
 

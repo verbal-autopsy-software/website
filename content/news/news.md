@@ -16,6 +16,8 @@ date_format = "Jan 2006"
 
 ### 2024
 
+* July 8th, 2024: [Tanzanian Ministry of Health gives green light to InSilicoVA for automated cause coeing of WHO standard verbal autopys](https://www.moh.go.tz/storage/app/uploads/public/668/bce/0af/668bce0af3e0b496951036.pdf)
+
 * May 7th, 2024: [Zehang Richard Li](https://openva.net/authors/7_zehang_li/) and colleages have a new article published in The Anals of Applied Statistics:
 ["Bayesian nested latent class models for cause-of-death assignment using verbal autopsies across multiple domains"](https://doi.org/10.1214/23-AOAS1826)
 

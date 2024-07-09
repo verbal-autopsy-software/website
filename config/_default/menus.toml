@@ -24,7 +24,7 @@
   weight = 27
 
 [[main]]
-  name = "FAQ"
+  name = "Help-FAQ"
   url = "faq/"
   weight = 30
 

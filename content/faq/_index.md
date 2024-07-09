@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Frequently Asked Questions
 
 # View.
 #   1 = List

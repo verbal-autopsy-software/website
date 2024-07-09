@@ -46,7 +46,7 @@ subtitle = ""
 
 Recent News
 
-* July 8th, 2024: [Tanzanian Ministry of Health gives green light to InSilicoVA for automated cause coeing of WHO standard verbal autopys](https://www.moh.go.tz/storage/app/uploads/public/668/bce/0af/668bce0af3e0b496951036.pdf)
+* July 8th, 2024: [Tanzanian Ministry of Health gives green light to InSilicoVA for automated cause codeing of WHO standard verbal autopsy (Section 6.2, p. 50)](https://www.moh.go.tz/storage/app/uploads/public/668/bce/0af/668bce0af3e0b496951036.pdf)
 
 * April 10th, 2024: New release of the Python openVA GUI available on the [GitHub repository](https://github.com/verbal-autopsy-software/pyopenva_GUI/releases)
 under assets.  <br> *(note the [additional instructions for macOS users on the main page](https://github.com/verbal-autopsy-software/pyopenva_GUI))*

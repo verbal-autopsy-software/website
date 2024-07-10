@@ -31,7 +31,7 @@ Please submit openVA issues for bugs or requests on GitHub at
 
 <br/><br/>
 
-### Where can I get more information about openVA?
+### How can I learn more about how to use the openVA software?
 
 The publication on [The openVA Toolkit for Verbal Autopsies](https://journal.r-project.org/articles/RJ-2023-020/openVA-RJ-R1.pdf) by Richard Li and the openVA Team
 is a useful resource for the R implementation of openVA, which includes

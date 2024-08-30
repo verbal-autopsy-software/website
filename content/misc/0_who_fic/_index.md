@@ -36,7 +36,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:info@openva.net  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:info@openva.net'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/verbal-autopsy-software/pyopenVA_GUI

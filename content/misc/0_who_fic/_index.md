@@ -4,7 +4,7 @@ name: WHO-FIC Poster
 
 # Username (this should match the folder name)
 authors:
-- 0_who-fic
+- 0_who_fic
 
 # Is this the primary user of the site?
 superuser: false
@@ -48,6 +48,10 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.  
+user_groups: []
 ---
 
 ## WHO - Family of International Classifications Network Annual Meeting 2024
@@ -81,4 +85,3 @@ email: ""
   + [WHO Verbal Autopsy Standards](https://www.who.int/standards/classifications/other-classifications/verbal-autopsy-standards-ascertaining-and-attributing-causes-of-death-tool)
     - [WHO 2022 Verbal Autopsy Instrument](https://www.who.int/publications/m/item/2022-who-verbal-autopsy-instrument)
     - [WHO 2016 Verbal Autopsy Instrument](https://openva.net/publication/nichols_2018/)
-

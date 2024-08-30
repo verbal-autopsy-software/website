@@ -3,7 +3,7 @@
 name: WHO-FIC Poster
 
 # Username (this should match the folder name)
-misc:
+author:
 - 0_who_fic
 
 # Is this the primary user of the site?
